@@ -2,6 +2,7 @@ language: go
 
 install:
   - go get github.com/smartystreets/goconvey
+  - go get github.com/goanywhere/fs
 
 go:
   - 1.4
