@@ -3,6 +3,7 @@ language: go
 install:
   - go get github.com/smartystreets/goconvey
   - go get github.com/goanywhere/fs
+  - go get github.com/goanywhere/crypto
 
 go:
   - 1.4

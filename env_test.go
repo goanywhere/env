@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/goanywhere/x/crypto"
+	"github.com/goanywhere/crypto"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
