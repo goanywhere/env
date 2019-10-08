@@ -2,7 +2,7 @@ env
 ===
 [![Build Status](https://travis-ci.org/goanywhere/env.svg?branch=master)](https://travis-ci.org/goanywhere/env) [![GoDoc](https://godoc.org/github.com/goanywhere/env?status.svg)](http://godoc.org/github.com/goanywhere/env)
 
-Ease of Accessing Environment Varaibles in Golang
+Ease of Accessing Environment Variables in Golang
 
 ### Installation
 
